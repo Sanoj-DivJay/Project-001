@@ -3,9 +3,10 @@
     padding: 0;
     font-family: 'Dongle', sans-serif;
 }
-<<<<<<< HEAD
 
-.header{
+
+.header
+{
     min-height: 100vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7 ),rgba(4,9,30,0.7)),url(images/dawn-1840298.jpg);
@@ -13,5 +14,5 @@
     background-size: cover;
     position: relative;
 }
-=======
->>>>>>> 3c5a648950b97600153b63e4a300e57dce1461f5
+
+
